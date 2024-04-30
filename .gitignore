@@ -7,9 +7,13 @@
 .yarn/install-state.gz
 
 # testing
-/src/app/page2.tsx
-/src/app/page3.tsx
+/src/app/consts/addresses.ts
+/src/app/page1.tsx
+/src/app/pagetest.tsx
 /coverage
+/src/app/bot/bot.js
+/src/app/bot/server.js
+/src/app/index.js
 
 # next.js
 /.next/
